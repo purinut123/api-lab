@@ -6,3 +6,4 @@
 - **Step 0.2:** The response used status 200 and content type `application/json`.
 - **Step 0.3:** The tools request without a token returned 401 Unauthorized.
 - **Step 0.4:** The vegetarian request returned `A Narrow Pugliese`.
+- **Step 0.9:** A unique made-up user logged in and started with no ratings.

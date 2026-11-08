@@ -17,3 +17,7 @@
 - **Expected result:** Status 400 with a useful JSON error message.
 - **Actual result:** Status 500 with an empty body.
 - **Severity:** Medium.
+
+## Part A
+
+- **Step A4:** Another user's read returned 404, update returned 400, and delete returned 400. The owner's rating remained unchanged.

@@ -4,3 +4,4 @@
 
 - **Step 0.1:** The `/api/names` response contained 18 pizza names.
 - **Step 0.2:** The response used status 200 and content type `application/json`.
+- **Step 0.3:** The tools request without a token returned 401 Unauthorized.
